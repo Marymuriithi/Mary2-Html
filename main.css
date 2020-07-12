@@ -1,0 +1,74 @@
+body {
+    background: black;
+    }
+header{
+    position: static;
+}
+#Greeting {
+    color: lightgreen;
+   text-align: center;
+}
+.book {
+
+    height: 130px;
+    width: 100px;
+}
+#bookname{
+
+
+    max-width:150%;
+    color: lightgreen;
+    text-transform: uppercase;
+    text-align: right;
+    margin: 0px;
+    padding: 10px;
+    
+}
+
+header{
+    background: black;
+    margin: 0px;
+    padding: 10px;
+}
+#blublack {
+
+    border-radius:20px 20px;
+    padding:3px 3px 3px 3px;
+    margin: 10px;
+    background: -moz-linear-gradient(navy,maroon);
+    background: -o-linear-gradient(navy,maroon);
+    background: -webkit-linear-gradient(navy,maroon);
+    
+}
+#blublack2 {
+    position: static;
+    border-radius:20px 20px;
+    padding:5px 5px 5px 5px;
+    margin: 10px;
+    background: black;
+}
+#blublack1 {
+    float: left;
+    border-radius:20px 20px;
+    padding:5px 5px 5px 5px;
+    margin: 10px;
+    background: black;
+}
+p, h5 {
+    border-radius:10px 10px;
+    background:black;
+    padding:5px 5px;
+    color: white;
+   
+}
+a {
+    text-decoration: none;
+    color: green;
+    background: black;
+    border-radius:20px 20px;
+    padding:3px;
+}
+footer {
+    text-align:center ;
+    color:white;
+}
